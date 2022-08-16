@@ -1,9 +1,9 @@
 ## 💫 About Me:
 🔭 I’m currently working on [Spins & Coins](https://play.google.com/store/apps/details?id=com.nandroidex.spinscoins)
 
-🌱 I’m currently learning [Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
+🌱 I’m currently learning [Flutter](https://flutter.dev/)
 
-👨‍💻 My website is https://niraj-prajapati.web.app/
+👨‍💻 My website is https://nirajprajapati.com/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niraj-prajapati) 
