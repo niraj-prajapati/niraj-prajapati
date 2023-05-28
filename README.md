@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🔭 I’m currently working on [Spins & Coins](https://play.google.com/store/apps/details?id=com.spinscoins)
+<!-- 🔭 I’m currently working on [Spins & Coins](https://play.google.com/store/apps/details?id=com.spinscoins) -->
 
 🌱 I’m currently learning [Flutter](https://flutter.dev/)
 
